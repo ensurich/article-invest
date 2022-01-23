@@ -34,11 +34,8 @@ module.exports = {
             {
                 locales: {
                     '/': {
-                        placeholder: 'Search',
-                    },
-                    '/zh/': {
                         placeholder: '搜索',
-                    },
+                    }
                 },
             },
         ]
