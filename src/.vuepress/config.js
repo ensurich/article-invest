@@ -2,7 +2,7 @@
 const { navbar, sidebar }   = require('./configs');
 
 module.exports = {
-    base: '/invest/',
+    base: '/articles-invest/',
     title: '凡离',
     description: '追寻确定的价值，做时间的朋友，静待花开。',
     host: '0.0.0.0',
