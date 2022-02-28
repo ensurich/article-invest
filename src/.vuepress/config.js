@@ -12,11 +12,11 @@ module.exports = {
     theme: '@vuepress/theme-default',
     themeConfig: {
         logo: '/images/logo-o.png',
-        repo: 'ensurich/invest/',
+        repo: 'ensurich/articles-invest/',
         contributors: true,
         editLink: true,
         lastUpdated: true,
-        docsRepo: 'https://github.com/ensurich/invest',
+        docsRepo: 'https://github.com/ensurich/articles-invest',
         docsBranch: 'master',
         docsDir: 'src',
         editLinkPattern: ':repo/edit/:branch/:path',
